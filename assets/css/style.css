@@ -1,0 +1,14 @@
+body{
+	background-image: url(https://img.maximummedia.ie/joe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzAzXFxcLzExMTY0NzQ3XFxcL3BzLnBuZ1wiLFwid2lkdGhcIjo2NDAsXCJoZWlnaHRcIjozNjAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2VcXFwvbm8taW1hZ2UucG5nP2lkPTI2NGEyZGJlMzcwZjJjNjc1ZmNkXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImE4MzJkY2E1YTQ4ZmViMTZjOTdkNDFjYTk0Y2M1ZjMxYWI5Yzk3MzgifQ==/ps.png);
+	text-align: center;
+}
+
+.text-muted{
+	color: hotpink;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
